@@ -13,7 +13,7 @@
 
 1. **논두잉** — 3D 공간을 둘러보고 자리를 골라 60초 동안 생각을 내려놓는 휴식형 인터랙션
    - 소스: https://github.com/Min8309/non_doing
-   - 실행 주소는 이 저장소 검토에서 확인하지 못해 포트폴리오에 소스 링크만 제공합니다.
+   - 실행: https://nondoing-238b.vercel.app/
 2. **경성게임** — 1934년 경성의 인쇄소에서 기록을 읽고 단서를 연결하는 역사·공포 탐색 퍼즐
    - 실행: https://gyeongseong-game-min8309.minsunpark3421.chatgpt.site
    - 소스: https://github.com/Min8309/game_01
